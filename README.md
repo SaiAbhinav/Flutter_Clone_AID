@@ -1,4 +1,4 @@
-# amrita_info_desk
+# amrita_info_desk clone using flutter
 
 A new Flutter project.
 
